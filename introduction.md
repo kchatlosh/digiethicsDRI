@@ -2,6 +2,8 @@
 
 ## What are ethics?
 
+![A picture of a cute cat](cat.jpeg)
+
 n. Moral principles, or a system of these.
 	~Oxford English Dictionary Online
 
