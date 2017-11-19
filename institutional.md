@@ -18,8 +18,9 @@ Messy categories, and we’ll discuss why.
 
 ## Belmont Report 
 
-National Research Act of 1974 
-Est. the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research
+National Research Act of 1974  
+ 
+Established by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research
 
 **3 core principles:**
 * Respect for persons

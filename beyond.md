@@ -1,12 +1,12 @@
 # Ethics beyond compliance
 
-Levels of impact:
+**Levels of impact:**
  
 1. Direct impacts on people
 2. Ramifications of (re)producing categories 
 3. Political and economic effects 
 
-& Range of impact: 
+& **Range of impact:** 
 * Accessibility to your work
 
 Source: [Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education” (2016)](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)
@@ -96,16 +96,16 @@ What is an example of a category or boundary you have to establish when making a
 
 Some key theorists (among many more!) on how knowledge and power are mutually constituted:
 
-Antonio Gramsci
-![Photographic portrait of Antonio Gramsci](gramsci.png)
+Antonio Gramsci  
+![Photographic portrait of Antonio Gramsci](gramsci.png)  
 Image source: [Wikimedia, Public Domain](https://commons.wikimedia.org/wiki/File:Gramsci.png)
 
-Stuart Hall
-![Image of Stuart Hall](stuarthall.jpeg)
+Stuart Hall  
+![Image of Stuart Hall](stuarthall2.jpeg)  
 Image source: ["Professor Stuart Hall," Flickr User The Open University, 2014](https://www.flickr.com/photos/the-open-university/15153440383/in/photostream/)
 
-Michel Foucault
-![Artistic portrait of Michel Foucault](foucault.png)
+Michel Foucault  
+![Artistic portrait of Michel Foucault](foucault.png)  
 Image source: [Wikimedia, Michel Foucault portrait by Paul Loboda be.net/Loboda_Paul, 2015](https://commons.wikimedia.org/wiki/File:Foucalt.png)
 
 Some key terms:
@@ -119,7 +119,7 @@ Discuss:
 
 ******
 
-#### A *very over-simplified* example:
+#### An example:
 
 The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people - and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
 
@@ -129,9 +129,9 @@ Further reading: [Julia Angwen & Jeff Larson, "Bias in Criminal Risk Scores Is M
 
 ******
 
-#### Another *over-simplified* example:
+#### Another example:
 
-![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikepedia and the politics of gender categorization" - A bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](wiki.png)
+![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikepedia and the politics of gender categorization" - A bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](wiki.png)  
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission. 
 
 Categories are key to digital tools in many ways - the organizational systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms - which then shapes not only how things/people/etc are grouped together but what is searchable and findable, and the trajectory of canon formation and what is cited and foregrounded.
@@ -161,14 +161,13 @@ Image source: [Creative Commons](https://creativecommons.org/choose/)
 
 Why use or produce open source tools? Or [creative commons](https://creativecommons.org/) materials?
 
-Have you considered issues of digital accessibility for differently abled and language-speaking individuals? 
+Have you considered issues of digital accessibility for differently abled and language-speaking individuals?  
 *For the latter group, beware of Google translate...*
 
 Some sources to check out:
 
 * Scott Dexter’s book, [Decoding Liberation: The Promise of Free and Open Source Software](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)
 * [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)
-* Gideon Lewis-Kraus, [“The Great AI Awakening”](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) on Google Translate
 
 ## Pause. 
 
