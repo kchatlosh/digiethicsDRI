@@ -16,14 +16,11 @@ Projects or research that engages with the digital - i.e. that examines, uses or
 
 ## Our approach to ethics
 
-![A picture of do the right thing written in spray paint](rightthing.jpeg) 
-> **“Do the right thing”**  
+**“Do the right thing”**  
 
-![A picture of a figure contemplating next to a big question mark](question.jpeg)  
-> **Keep questioning**
+**Keep questioning**
 
-![A picture of a water ripple](ripple.jpeg)  
-> **Levels of impact** 
+**Levels of impact** 
 1. Direct impacts on people
 2. Ramifications of (re)producing categories
 3. Political and economic effects
