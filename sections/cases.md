@@ -32,11 +32,7 @@ Check out [their website](http://interferencearchive.org/), read [this brief art
 
 ******
 
-## Ex. 3: “The Science of ‘Gaydar’”  
-
-<img src="gaydar.jpeg" width=200>  
-Image description: A novelty "gaydar ultimate gay detector keychain" toy - its packaging reads: "GAY? STRAIGHT?? CAN'T TELL??? If they are on your radar, use GAYDAR's amazing powers of detection and you will find out: Gay, straight or undecided - Gayday will tell you instantly!""  
-Image source: [Flickr user Razlan "Gaydar from Liping!" 2010](https://www.flickr.com/photos/razlan79/5015014046/in/photolist-bshDVi-59R91P-bshV3v-bshWEB-59R9ue-bshr5x-bshjPr-7oDa69-bshCGZ-bshJBn-bshxan-bshiLv-bshj4K-2YvuD-bshvhg-bshv2X-bshcHD-bshruM-bshwE6-sfxh4-G8nK5q-bshjp6-bshwjZ-bsi7nD-4jPXF-A6Qd-71drX3-5f874b-bshE2Z-2aEbyL-bshwT8-Cta22-jppYo-5eVh73-EwaEq-5f7QPy-5eUegC-8DafXq-2Yvup-Ct9Mq-ahEoT-nVDgqh-jpGVC-bshexR-bshd8g-59R9cP-4j42pS-24EsGD-2Yvjg-A6Qv)  
+## Ex. 3: “The Science of ‘Gaydar’”   
 
 Review Joshua Tabak and Vivian Zayas's [academic article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036671) and [their summary of it for the New York Times](http://www.nytimes.com/2012/06/03/opinion/sunday/the-science-of-gaydar.html), and discuss:
 

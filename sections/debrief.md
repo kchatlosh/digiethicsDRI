@@ -38,7 +38,7 @@ Cultural Anthropology Ph.D. Student
 kchatlosh@gradcenter.cuny.edu  
 @kchatlosh  
 
-Some slides adapted from the [Lexicon of DH workshop slides](http://tinyurl.com/lexiconofdh), created by:
+Some content adapted from the [Lexicon of DH workshop slides](http://tinyurl.com/lexiconofdh), created by:
 
 **Mary Catherine Kinniburgh**  
 GC, CUNY, Digital Fellow alum  
