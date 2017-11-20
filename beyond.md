@@ -96,15 +96,15 @@ What is an example of a category or boundary you have to establish when making a
 
 Some key theorists (among many more!) on how knowledge and power are mutually constituted:
 
-Antonio Gramsci  
+**Antonio Gramsci**  
 ![Photographic portrait of Antonio Gramsci](gramsci.png)  
 Image source: [Wikimedia, Public Domain](https://commons.wikimedia.org/wiki/File:Gramsci.png)
 
-Stuart Hall  
+**Stuart Hall**  
 ![Image of Stuart Hall](stuarthall2.jpeg)  
 Image source: ["Professor Stuart Hall," Flickr User The Open University, 2014](https://www.flickr.com/photos/the-open-university/15153440383/in/photostream/)
 
-Michel Foucault  
+**Michel Foucault**  
 ![Artistic portrait of Michel Foucault](foucault.png)  
 Image source: [Wikimedia, Michel Foucault portrait by Paul Loboda be.net/Loboda_Paul, 2015](https://commons.wikimedia.org/wiki/File:Foucalt.png)
 
