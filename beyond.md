@@ -100,8 +100,8 @@ Some key theorists (among many more!) on how knowledge and power are mutually co
 ![Photographic portrait of Antonio Gramsci](gramsci.png)  
 Image source: [Wikimedia, Public Domain](https://commons.wikimedia.org/wiki/File:Gramsci.png)
 
-**Stuart Hall**  
-![Image of Stuart Hall](stuarthall2.jpeg)  
+**Stuart Hall**   
+<img src="stuarthall.jpeg" width=100>
 Image source: ["Professor Stuart Hall," Flickr User The Open University, 2014](https://www.flickr.com/photos/the-open-university/15153440383/in/photostream/)
 
 **Michel Foucault**  
