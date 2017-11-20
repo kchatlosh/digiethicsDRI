@@ -15,6 +15,8 @@ how will the above affect your research/project methods & design?
 
 Discuss with your partner, and then share with the group!
 
+******
+
 ## Workshop debrief
 
 * **developed** our understanding of ethical practices when doing digital research
@@ -23,6 +25,8 @@ Discuss with your partner, and then share with the group!
 * **created** a working set of guidelines for ethical digital research 
 
 **THANK YOU! & HOPE IT WAS USEFUL!**
+
+******
 
 ## Attributions
 
@@ -42,5 +46,6 @@ English Ph.D. Candidate
 mckinniburgh@gmail.com  
 @mckinniburgh  
 
+******
 
-
+[<<< Back](cases.md) - [Next >>>](resources.md)

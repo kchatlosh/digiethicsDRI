@@ -24,6 +24,8 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Diana Taylor, The Archive and the Repertoire, 2003](https://www.dukeupress.edu/the-archive-and-the-repertoire)
 
+[Donna Haraway, "Situated Knowledges," 1988](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf)  
+
 ## General information on digital ethics beyond compliance:
 
 [Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education” (2016)](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)
@@ -100,6 +102,8 @@ Scott Dexter’s book, [Decoding Liberation: The Promise of Free and Open Source
 
 Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," 2015 in [More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence, ed. Elaine Coburn](https://fernwoodpublishing.ca/book/more-will-sing-their-way-to-freedom)  
 
+******
+
 ## Know of more useful resources that are not listed above?
 
 Email me to request to add something to this resource list:
@@ -110,3 +114,6 @@ Cultural Anthropology Student
 She / her  
 Kchatlosh@gradcenter.cuny.edu
 
+******
+
+[<<< Return to beginning](README.md)  
