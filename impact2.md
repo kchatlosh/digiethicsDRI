@@ -20,12 +20,12 @@ What is an example of a category or boundary you have to establish when making a
 
 Some key theorists (among many more!) on how knowledge and power are mutually constituted:  
 
-<img src="gramsci.png" width=200>     <img src="stuarthall.jpeg" width=200>     <img src="foucault.png" width=200>      
+<img src="gramsci.png" width=200>     <img src="stuarthall.jpeg" width=200>     <img src="foucault.png" width=400>      
 Images of, left to right: **Antonio Gramsci,** **Stuart Hall** & **Michel Foucault**  
 Image sources, left to right: 
-[Wikimedia, Public Domain](https://commons.wikimedia.org/wiki/File:Gramsci.png)
-["Professor Stuart Hall," Flickr User The Open University, 2014](https://www.flickr.com/photos/the-open-university/15153440383/in/photostream/)
-[Wikimedia, Michel Foucault portrait by Paul Loboda be.net/Loboda_Paul, 2015](https://commons.wikimedia.org/wiki/File:Foucalt.png)
+[Wikimedia, Public Domain](https://commons.wikimedia.org/wiki/File:Gramsci.png)  
+["Professor Stuart Hall," Flickr User The Open University, 2014](https://www.flickr.com/photos/the-open-university/15153440383/in/photostream/)  
+[Wikimedia, Michel Foucault portrait by Paul Loboda be.net/Loboda_Paul, 2015](https://commons.wikimedia.org/wiki/File:Foucalt.png)  
 
 Some key terms:
 * **Hegemony** (Gramsci)
