@@ -1,6 +1,6 @@
 ## Institutional Review Board (IRB)
 
-![someone saying the IRB was taking too long so I did it without approval! and then batman slapping them while saying wrong! you can't bypass the IRB!](batman.jpeg)  
+![someone saying the IRB was taking too long so I did it without approval! and then batman slapping them while saying wrong! you can't bypass the IRB!](images/batman.jpeg)  
 
 The [CUNY Human Research Protection Program (HRPP)](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)) 
 

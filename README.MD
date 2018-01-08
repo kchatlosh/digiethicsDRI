@@ -1,13 +1,14 @@
 
 # Ethics for Digital Projects and Research 
 
-Launching a digital project or doing research on digital platforms or with digital forms of data bring to the fore unique ethical concerns that often extend beyond the purview of a scholar's home university's Institutional Review Board.  This discussion-based workshop will address an array of ethical questions and concerns for folks doing digital projects or research with an emphasis on consent, personhood, confidentiality, political economy, the politics of knowledge production, and accessibility. In addressing these issues, this workshop will first provide a general overview of ethics for institutional research compliance - including the Belmont Report and Institutional Review Board - and then delve into an array of ethical issues that extend beyond compliance that may arise specifically when doing digital prjoects or research. The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and often is a reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask when designing and implementing a digital project or form of digital research, and key concepts to draw upon when thinking through these questions.  
+Launching a digital project or doing research on digital platforms or with digital forms of data bring to the fore unique ethical concerns.  This discussion-based workshop will address an array of ethical questions and concerns for folks doing digital projects or research with an emphasis on consent, personhood, confidentiality, political economy, the politics of knowledge production, and accessibility. In addressing these issues, this workshop will first provide a general overview of ethics for institutional research compliance - including the Belmont Report and Institutional Review Board - and then delve into an array of ethical issues that extend beyond institutional purview.  
+
+The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and often is a reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.  
 
 ## Agenda  
 
 [Introduction](introduction.md)  
-[Your Digital Work](your.md)  
-[Workshop Goals](goals.md)  
+[Levels of Impact](levelsimpact.md)  
 [Institutional Ethics](institutional.md)  
 [Belmont Report](belmont.md)  
 [Institutional Review Board(IRB)](irb.md)  
