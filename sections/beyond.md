@@ -22,5 +22,5 @@ Pair up with another person near you and discuss. Share as a class.
 
 ******
 
-[<<< Back](sections/irb.md) - [Next >>>](sections/levelsimpact.md)
+[<<< Back](irb.md) - [Next >>>](levelsimpact.md)
 

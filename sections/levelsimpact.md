@@ -19,4 +19,4 @@ ALSO: Range of Impact
 
 ******
 
-[<<< Back](sections/beyond.md) - [Next >>>](sections/level1.md)
+[<<< Back](beyond.md) - [Next >>>](level1.md)

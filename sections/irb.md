@@ -43,4 +43,4 @@ Dig Deeper…
 
 ******
 
-[<<< Back](sections/belmont.md) - [Next >>>](sections/beyond.md)
+[<<< Back](belmont.md) - [Next >>>](beyond.md)
