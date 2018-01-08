@@ -7,7 +7,7 @@ Review the collective guidelines we have created so far and any additional notes
 {determine institutional requirements}  
  will you apply for IRB? 
 
-{explore more radical ethics}  
+{explore ethics beyond compliance}  
 what levels of impact will you consider?
 
 {reassess your research methodology}  
