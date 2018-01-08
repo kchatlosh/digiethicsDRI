@@ -28,24 +28,9 @@ Introduce yourself to the person next to you:
 * Digital tools that you use?
 * How did you come to be working on that project? to use those tools? 
 
-## Activity: Think, Pair, Share  
-
-* Think about the digital project or research you are or will be working on. 
-* Now, describe in 2-3 sentences to a non-expert audience the *design* of your project.  
-* What human labor is required to do it?  
-* Do you need to collect data? From where or who? 
-* Would there be any consequences if someone else got a hold of that data?  
-
-* Next, describe in 2-3 sentences to a non-expert audience the *purpose* of your project.
-* It a tool that will organize data?  
-* Will it produce new knowledge?  
-* Who can access it?  
-
-Pair up with another person near you and discuss. Share as a class.   
-
 ******
 
-[<<< Back](README.md) - [Next >>>](levelsimpact.md)
+[<<< Back](README.md) - [Next >>>](sections/institutional.md)
 
 
 
