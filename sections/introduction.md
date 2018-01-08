@@ -30,7 +30,7 @@ Introduce yourself to the person next to you:
 
 ******
 
-[<<< Back](README.md) - [Next >>>](sections/institutional.md)
+[<<< Back](README.md) - [Next >>>](institutional.md)
 
 
 

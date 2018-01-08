@@ -34,7 +34,7 @@ The approach of this workshop is premised on the understanding that there is no 
 
 *Note: The workshop leader will create and share a google doc that participants may add to throughout the workshop towards creating a working set of guidelines and additional resources. Each participant may add to the doc and write their name or alias down as a contributor, or choose to opt out.* 
 
-![creative commons logo followed by cc symbols for attribution and non-commercial](cc2.png)  
+![creative commons logo followed by cc symbols for attribution and non-commercial](images/cc2.png)  
 
 ******
 
