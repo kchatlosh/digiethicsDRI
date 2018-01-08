@@ -14,7 +14,7 @@ So, before delving into a deeper discussion of ethics beyond compliance, this fi
 
 ******
 
-[<<< Back](sections/introduction.md) - [Next >>>](sections/belmont.md)
+[<<< Back](introduction.md) - [Next >>>](belmont.md)
 
 
 

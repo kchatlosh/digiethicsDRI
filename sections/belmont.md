@@ -29,4 +29,4 @@ Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/bel
 
 ******
 
-[<<< Back](sections/institutional.md) - [Next >>>](sections/irb.md)
+[<<< Back](institutional.md) - [Next >>>](irb.md)
