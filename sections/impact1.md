@@ -1,8 +1,12 @@
 # Level of Impact #1
 
-## … But what counts as human? & what (personal) data should be off limits?
+## Direct effects on people
+
+> "At the most basic **level of an impact** approach, we might ask how our methods of data collection **impact humans, directly.** If one is interviewing, or the data is visibly connected to a person, this is easy to see. But a distance principle might help us recognize that when the data is very distant from where it originated, it can seem disconnected from persons, or what some regulators call ‘human subjects.’" (Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016, emphasis added)  
+
+## … But what counts as 'human'? & what 'data' should be off limits?
  
-**Some commonly blurred definitions:**
+Some commonly blurred definitions:
 
 * “Human subjects”
 * Public vs. Private

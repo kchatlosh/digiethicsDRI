@@ -1,6 +1,26 @@
-### Politics of knowledge production cont.  
+# Level of Impact #3 cont.  
 
-#### An example:
+## Activity: Discuss a case example
+
+Check out [the Gender API's website](https://gender-api.com/) and click around its various sections to read about how the API works, and discuss:
+
+* What kinds of information is this API producing?
+* Who might be the users of this API? What may be their intentions in using this API?
+* Does the use of this API raise any ethical concerns? 
+
+## Activity: Discuss a second case example  
+
+Check out [the Interference Archive'a (IA) website](http://interferencearchive.org/), read [this brief article](http://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/%20) and discuss:
+
+* What kinds of materials does IA host and do they have rights to it?
+* In reference to the article, how does IA see itself as “resisting the hierarchy”?
+* What levels of impact does IA aim to take into account?
+
+*Fun fact: I helped paint that #NoDAPL banner - with others at [Decolonize this Place](http://www.decolonizethisplace.org/) - shown in the article's first photo.*
+
+* Relatedly, might public syllabi projects - e.g. the [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/) - also be understood as "resisting the hierarchy"? What are some other project examples that attempt this?
+
+
 
 The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people - and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
 

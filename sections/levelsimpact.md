@@ -15,7 +15,7 @@ This workshop follows an approach that encourages scholars to think critically a
 ALSO: Range of Impact  
 -- Accessibility to your work  
 
-> "At the most basic **level of an impact** approach, we might ask how our methods of data collection **impact humans, directly.** If one is interviewing, or the data is visibly connected to a person, this is easy to see. But a distance principle might help us recognize that when the data is very distant from where it originated, it can seem disconnected from persons, or what some regulators call ‘human subjects.’ At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations? At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term." (Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016, emphasis added)  
+Source: Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016  
 
 ******
 
