@@ -8,9 +8,9 @@
 
 Some questions to consider:
 
-* Whose **labor** and what **materials** are used to make the digital tools you use?
-* Could your research or project be used to justify or facilitate **state control** or **surveillance**?  
-* Could it influence **social or political discourse**? Modes of **profit**?
+* Whose **labor** and what **materials** are used to make the digital tools you use?  
+* Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?  
+* Could it influence **social or political discourse**? Modes of **profit**?  
 
 ## Activity: Discuss a case example  
 
@@ -20,9 +20,24 @@ Check out [the Gender API's website](https://gender-api.com/) and click around i
 * Who might be the users of this API? What may be their intentions in using this API?
 * Does the use of this API raise any ethical concerns? 
 
+## Activity: Think, Pair, Share  
 
+Think about the digital project or research you are or will be working on. 
 
+* Whose labor and what materials do you rely upon to do your work?  
+* Could your research or project be used to justify or facilitate potentially harmful control or surveillance - by e.g. the state, a vigilante group, an abusive partner?  
+* How could your work cause changes to or justify social, economic or political discourses?  
+* Will your work be used for profit, for who?  
+
+Pair up with another person near you and discuss. Share as a class.  
+
+# Pause. 
+
+Update our shared guidelines:
+
+* What is the third level of impact? 
+* Additional examples of this?    
 
 ******
 
-[<<< Back](examples.md) - [Next >>>](range.md)
+[<<< Back](impact2.md) - [Next >>>](range.md)

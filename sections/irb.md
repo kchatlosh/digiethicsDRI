@@ -13,6 +13,8 @@ When *ALL* of the criteria below are met:
 2. The proposed research or clinical investigation involves human subjects; AND  
 3. CUNY is engaged in the research or clinical investigation involving human subjects.  
 
+Who thinks they will need to apply for IRB approval?  
+
 *Consult your advisor and comittee members for advice on if you may need to apply.*  
 
 For further guidelines on when CUNY HRPP or IRB Review is required, click [here](http://www2.cuny.edu/wp-content/uploads/sites/4/page-assets/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/HRPP_IRB_Review_Required.pdf)
@@ -24,7 +26,8 @@ Some advice:
 * Note that your CUNY IRB application will be conducted through the home CUNY campus of your advisor - automatically linked when you start the application on the Ideate website
 * Be patient with the Ideate website... and use Firefox as your browser - more Ideate tips [here](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/GC%20HRPP%20Documents/Ideate%20Help%20Docs/IDEATE-QUICK-TIPS-and-TROUBLESHOOTING-vNov17.pdf?ext=.pdf)  
 * Make sure you have completed the CITI exam - more info [here](http://www2.cuny.edu/research/research-compliance/training-education/citi-training/)  
-* Keep in mind that IRB requires you attach all grant proposals (if applicable) that fund the project - *if not too late, keep this in mind when writing those grant proposals*   
+* Keep in mind that IRB requires you attach all grant proposals (if applicable) that fund the project - *if not too late, keep this in mind when writing those grant proposals*  
+* Sharing photos, videos or audio files of people to a public website or another publicly accessible space/repository as part of your research? You will need all participants to sign a legal deed of gift (an example [here](http://libraries.uky.edu/user_uploads/372_NunnCenter-Release-Master-2017v5.pdf), specific to oral history projects)
 
 For additional information on the CUNY HRPP policies & procedures, click [here](http://www2.cuny.edu/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/#1460557504764-6bb03276-3738)  
 
@@ -32,14 +35,9 @@ For HRPP Educational Materials, click [here](https://www.gc.cuny.edu/About-the-G
 
 # Pause. 
 
-Who thinks they will need to apply for IRB approval?  
-Anyone unsure?  
-
 Jot down some notes to our guidelines:  
 * What are the main principals of the Belmont Report?  
 * What do you find important to remember about applying for the CUNY HRPP or IRB?  
-
-Dig Deeper…
 
 ******
 

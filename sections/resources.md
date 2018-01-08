@@ -117,4 +117,4 @@ Kchatlosh@gradcenter.cuny.edu
 ******
 
 [<<< Back](debrief.md)  
-[<<< Return to beginning](README.MD)  
+[<<< Return to beginning](README.md)  

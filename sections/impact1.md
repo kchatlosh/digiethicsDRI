@@ -20,9 +20,6 @@ A working definition of the “distance principle”:
 
 > **“the extent to which Internet texts or data sets might connect to persons”** even when “the conceptual or experiential distance between the researcher and author/participant [does not appear to be] close” ([Annette Markam & Elizabeth Buchanon, “Ethical Concerns in Internet Research”](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research), page 10)  
 
-## Pause. 
-
-Update our guidelines...
 ******
 
 [<<< Back](levelsimpact.md) - [Next >>>](public.md)

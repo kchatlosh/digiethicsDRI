@@ -9,7 +9,6 @@ So, before delving into a deeper discussion of ethics beyond compliance, this fi
 * CUNY centers and resources 
 
 ![someone saying the IRB was taking too long so I did it without approval! and then batman slapping them while saying wrong! you can't bypass the IRB!](images/batman.jpeg)  
-
 *Note: This first section on institutional ethics is more focused on digital research (rather than making tools or other projects) - but the latter section on ethics beyond compliance touches upon issues concerning researching and tool-building as well.* 
 
 ******

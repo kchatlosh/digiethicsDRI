@@ -22,7 +22,7 @@ An example:
 
 The hegemonic racial discourses that associate Blackness with criminality in the United States serve to justify police brutality towards and higher rates of criminalization and mass incarceration of Black people - and these higher rates of policing and incarcerating serve to justify the assumption of their criminality.
 
-So then when, for eample, someone attempts to make an algorithm to identify potential criminals that is produced through machine learning on crime data (e.g. the number of accused crimes in relation to demographic data) that algorithm will reproduce the racist ideologies and practices that police and incarcerate Black people at a much higher rate - an example we will discuss more later.
+So then when, for eample, someone attempts to make an algorithm to identify potential criminals that is produced through machine learning on crime data (e.g. the number of accused crimes in relation to demographic data) that algorithm will reproduce the racist ideologies and practices that police and incarcerate Black people at a much higher rate.
 
 Further reading: [Julia Angwen & Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say"](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
 
@@ -47,8 +47,6 @@ Check out the [Interference Archive](http://interferencearchive.org/) - a local 
 
 Relatedly, might public syllabi projects - e.g. the [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/) - also be understood as "resisting the hierarchy," or specifically resisting the canonization of Western white settler colonial approaches? 
 
-What are some other project examples that attempt to resist hierarchies?  
-
 ## Activity: Think, Pair, Share
 
 Think about the digital project or research you are or will be working on.
@@ -61,6 +59,14 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.   
 
+# Pause. 
+
+Update our shared guidelines:
+
+* What is the second level of impact?  
+* What may be some effects of producing or further entrenching certain categories through e.g. datasets, algorithms or maps?  
+* What does it mean to "resist the hierarchy" of dominant categorizations? What are some other project examples that attempt to resist hierarchies?  
+
 ******
 
-[<<< Back](personhood.md) - [Next >>>](examples.md)
+[<<< Back](personhood.md) - [Next >>>](impact3.md)

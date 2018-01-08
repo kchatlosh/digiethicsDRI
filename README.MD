@@ -17,10 +17,8 @@ The approach of this workshop is premised on the understanding that there is no 
 ["Public" Data](sections/public.md)  
 [The Question of Personhood](sections/personhood.md)  
 [Level of Impact #2](sections/impact2.md)  
-[Examples](sections/examples.md)  
 [Level of Impact #3](sections/impact3.md)  
 [Range of Impact](sections/range.md)  
-[Case Examples](sections/cases.md)  
 [Debrief](sections/debrief.md)  
 [Resources](sections/resources.md)  
 

@@ -4,16 +4,16 @@
 
 Review the collective guidelines we have created so far and any additional notes you jotted down, and make a few notes by yourself about the questions listed below. 
 
-> {determine institutional requirements}  
+{determine institutional requirements}  
  will you apply for IRB? 
 
-> {explore more radical ethics}  
+{explore more radical ethics}  
 what levels of impact will you consider?
 
-> {reassess your research methodology}  
+{reassess your research methodology}  
 how will the above affect your research/project methods & design?
 
-Discuss with your partner, and then share with the group!
+Discuss with a partner, and then share with the group!
 
 ******
 
@@ -48,4 +48,4 @@ mckinniburgh@gmail.com
 
 ******
 
-[<<< Back](cases.md) - [Next >>>](resources.md)
+[<<< Back](range.md) - [Next >>>](resources.md)
