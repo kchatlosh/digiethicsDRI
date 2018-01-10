@@ -4,7 +4,7 @@
 
 ![graphic of two words - knowledge and power - and semi-circular arrows from power to knowledge and from knowledge to power, forming a circle](../images/power.png)
 
-> "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" (Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016, emphasis added)  
+> "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 
 ## Discuss
 

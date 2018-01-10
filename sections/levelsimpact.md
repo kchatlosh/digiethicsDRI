@@ -4,7 +4,7 @@ This workshop follows an approach that encourages scholars to think critically a
 
 ## "Do the right thing"  
 
-> "Ethics can be thus considered a matter of methods. **“Doing the right thing” is an everyday activity**, as we make multiple choices about how we might act. Our decisions and actions transform into habits, norms, and rules over time and repetition. Our choices carry consequences. **As researchers, we carry more responsibility** than users of social media platforms. Why? Because we hold more cards when we present findings of studies and make knowledge statements intended to present some truth -big or little T- about the world to others." (Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016)
+> "Ethics can be thus considered a matter of methods. **“Doing the right thing” is an everyday activity**, as we make multiple choices about how we might act. Our decisions and actions transform into habits, norms, and rules over time and repetition. Our choices carry consequences. **As researchers, we carry more responsibility** than users of social media platforms. Why? Because we hold more cards when we present findings of studies and make knowledge statements intended to present some truth -big or little T- about the world to others." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)
 
 ## Thinking in terms of "levels of impact"
 
@@ -15,7 +15,7 @@ This workshop follows an approach that encourages scholars to think critically a
 ALSO: Range of Impact  
 -- Accessibility to your work  
 
-Source: Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016  
+Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)    
 
 ******
 
