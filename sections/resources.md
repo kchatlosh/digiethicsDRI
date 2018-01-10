@@ -30,7 +30,7 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education” (2016)](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)
 
-## On internet & social media research ethics:
+## On internet & digital or social media research ethics:
 
 [The 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf)
 
@@ -40,13 +40,15 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Berendt, Büchler, & Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences” (2015)](http://digitalhumanitiesnow.org/2015/04/editors-choice-is-it-research-or-is-it-spying-thinking-through-ethics-in-big-data-ai-and-other-knowledge-sciences/)
 
-[Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)
+[Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
+
+[Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online* 2016](https://www.amazon.com/dp/1433130009/ref=cm_sw_r_sms_awd_d_JdrqxbYHPQSAT)
 
 ## On ethics and algorithms:
 
-[Safiya Umoja Noble, Algorithms of Oppression: How Search Engines Reinforce Racism - to be released in 2018](https://nyupress.org/books/9781479837243/)  
+[Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* - to be released in 2018](https://nyupress.org/books/9781479837243/)  
 
-[Cathy O'Neil, Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, 2016](https://weaponsofmathdestructionbook.com/)
+[Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)
 
 [Julia Angwen & Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say"](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
 
@@ -54,7 +56,7 @@ ProPublica's series of articles on ["Machine Bias: Investigating Algorithmic Inj
 
 ## On public sharing and accessibility for differently abled people:
 
-Scott Dexter’s book, [Decoding Liberation: The Promise of Free and Open Source Software](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)
+[Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)
 
 [Creative Commons](https://creativecommons.org/) on licensing your work for public sharing within various constraints
 
@@ -100,7 +102,7 @@ Scott Dexter’s book, [Decoding Liberation: The Promise of Free and Open Source
 
 [Melissa Checker, "Stop FEMA Now: Social media, activism and the sacrificed citizen," 2016](http://www.sciencedirect.com/science/article/pii/S0016718516301750)
 
-Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," 2015 in [More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence, ed. Elaine Coburn](https://fernwoodpublishing.ca/book/more-will-sing-their-way-to-freedom)  
+[Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," 2015 in More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence, ed. Elaine Coburn](https://fernwoodpublishing.ca/book/more-will-sing-their-way-to-freedom)  
 
 ******
 

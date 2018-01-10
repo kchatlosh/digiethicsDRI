@@ -12,7 +12,7 @@ Have you considered issues of digital accessibility for differently abled or lan
 
 Some sources to check out:
 
-* Scott Dexter’s book, [Decoding Liberation: The Promise of Free and Open Source Software](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)
+* [Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)  
 * [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)
 
 ## Activity: Think, Pair, Share  
