@@ -62,17 +62,17 @@ ProPublica's series of articles on ["Machine Bias: Investigating Algorithmic Inj
 
 [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)
 
-["George Williams, "Disability, Universal Design, and the Digital Humanities" in Debates in the Digital Humanities, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/44)
+[George Williams, "Disability, Universal Design, and the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/44)
 
 ## On ethical and political debates within the field of digital humanities (DH):
 
 [Domenico Fiormonte, "Digital Humanities and the Geopolitics of Knowledge" 2017](https://www.digitalstudies.org/article/10.16995/dscn.274/)
 
-[Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, & Rita Raley, "The Dark Side of the Digital Humanities" in Debates in the Digital Humanities, ed. Matt Gold 2016](http://dhdebates.gc.cuny.edu/debates/text/89)
+[Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, & Rita Raley, "The Dark Side of the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold 2016](http://dhdebates.gc.cuny.edu/debates/text/89)
 
-[Tara McPherson, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation" in Debates in the Digital Humanities, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/29)
+[Tara McPherson, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/29)
 
-[Elizabeth Losh, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University" in Debates in the Digital Humanities, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/32)
+[Elizabeth Losh, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/32)
 
 ## On post- / de- / anti- colonial digital humanities (DH):
 
@@ -119,4 +119,4 @@ Kchatlosh@gradcenter.cuny.edu
 ******
 
 [<<< Back](debrief.md)  
-[<<< Return to beginning](README.md)  
+[<<< Return to beginning](../README.md)  
