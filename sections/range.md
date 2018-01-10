@@ -4,8 +4,7 @@
 
 Some questions to consider:  
 
-* Why use or produce open source tools? Or [creative commons](https://creativecommons.org/) materials?
-![creative commons logo followed by cc symbols for attribution and non-commercial](../images/cc2.png)  
+* Why use or produce open source tools? Or [creative commons](https://creativecommons.org/) materials? ![creative commons logo followed by cc symbols for attribution and non-commercial](../images/cc2.png)  
 * Have you considered issues of digital accessibility for differently abled or language-speaking individuals? *For the latter group, beware of Google translate...*  
 
 Some sources to check out:
@@ -26,4 +25,4 @@ Pair up with another person near you and discuss. Share as a class.
 
 ******
 
-[<<< Back](impact3.md) - [Next >>>](debrief.md)
+[<<< Back](impact3.md) - [Next >>>](cases.md)

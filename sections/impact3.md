@@ -1,8 +1,6 @@
 # Level of Impact #3
 
-## Social, political and economic impacts
-
-![big dollar sign $](../images/dollar.png)  
+## Social, political and economic impacts  
 
 > "At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 

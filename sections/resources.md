@@ -4,7 +4,11 @@
 
 ## General IRB information:
 
-[The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)
+[The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
+
+[US Federal Policy for the Protection of Human Subjects, note new changes - effective January 19, 2018](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)  
+
+[International Compilation of Human Research Standards (by country), compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services, 2017](https://www.hhs.gov/ohrp/sites/default/files/international-compilation-of-human-research-standards-2017.pdf)  
 
 [The CUNY Human Research Protection Program (HRPP)](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)) 
 * For guidelines on when CUNY HRPP or IRB Review is required, click [here](http://www2.cuny.edu/wp-content/uploads/sites/4/page-assets/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/HRPP_IRB_Review_Required.pdf)
@@ -42,9 +46,13 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 
-[Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online* 2016](https://www.amazon.com/dp/1433130009/ref=cm_sw_r_sms_awd_d_JdrqxbYHPQSAT)
+[Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online* 2016](https://www.amazon.com/dp/1433130009/ref=cm_sw_r_sms_awd_d_JdrqxbYHPQSAT)  
+
+[A list by @hypervisible on Twitter of tech platforms enacting dubious ethical practices](https://twitter.com/hypervisible/status/946822278582603777)  
 
 ## On ethics and algorithms:
+
+[Critical Algorithm Studies: a Reading List, compiled by Tarleton Gillespie and Nick Seaver, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
 
 [Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* - to be released in 2018](https://nyupress.org/books/9781479837243/)  
 
@@ -52,7 +60,9 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Julia Angwen & Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say"](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
 
-ProPublica's series of articles on ["Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)
+[ProPublica's series of articles on "Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)  
+
+[The Brian Lehrer Show podcast on "Getting Algorithms Right," 2018](https://www.wnyc.org/story/algorithms-better-or-worse/)  
 
 ## On public sharing and accessibility for differently abled people:
 
@@ -63,6 +73,14 @@ ProPublica's series of articles on ["Machine Bias: Investigating Algorithmic Inj
 [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)
 
 [George Williams, "Disability, Universal Design, and the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/44)
+
+## On data security and management:  
+
+[Patrick Smyth's, CUNY GC Digital Fellow and English Ph.D. candidate, workshop on information security](https://github.com/smythp/security-workshop)  
+
+[Stephen Zweibel’s, CUNY GC Digital Scholarship Librarian, presentation on data management, 2017](http://zweibel.net/presentations/data.html#/)  
+
+[Lindsay Lloyd-Smith, “Archaeology: Principles and Practices of Digital Data Management," 2016](http://www.americananthro.org/LearnAndTeach/Content.aspx?ItemNumber=20668)   
 
 ## On ethical and political debates within the field of digital humanities (DH):
 
@@ -113,8 +131,8 @@ Email me to request to add something to this resource list:
 Kelsey Chatlosh  
 GC, CUNY, Digital Fellow  
 Cultural Anthropology Student  
+Kchatlosh@gradcenter.cuny.edu  
 She / her  
-Kchatlosh@gradcenter.cuny.edu
 
 ******
 

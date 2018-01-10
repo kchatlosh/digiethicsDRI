@@ -15,8 +15,6 @@ how will the above affect your research/project methods & design?
 
 Discuss with a partner, and then share with the group!
 
-******
-
 ## Workshop debrief
 
 * **developed** our understanding of ethical practices when doing digital research
@@ -24,9 +22,7 @@ Discuss with a partner, and then share with the group!
 * **discussed** alternative approaches and case examples
 * **envisioned** how this approach to ethics relates to workshop participants' own projects and methodologies 
 
-**THANK YOU! & HOPE IT WAS USEFUL!**
-
-******
+**THANK YOU! I HOPE THE WORKSHOP WAS USEFUL!**
 
 ## Attributions
 
@@ -36,16 +32,9 @@ This workshop was created by:
 GC, CUNY, Digital Fellow  
 Cultural Anthropology Ph.D. Student  
 kchatlosh@gradcenter.cuny.edu  
-@kchatlosh  
-
-Some content adapted from the [Lexicon of DH workshop slides](http://tinyurl.com/lexiconofdh), created by:
-
-**Mary Catherine Kinniburgh**  
-GC, CUNY, Digital Fellow alum  
-English Ph.D. Candidate  
-mckinniburgh@gmail.com  
-@mckinniburgh  
+Twitter: @kchatlosh  
+She / her  
 
 ******
 
-[<<< Back](range.md) - [Next >>>](resources.md)
+[<<< Back](cases.md) - [Next >>>](resources.md)
