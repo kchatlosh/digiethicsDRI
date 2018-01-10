@@ -2,7 +2,7 @@
 
 ## Politics of knowledge production
 
-![graphic of two words - knowledge and power - and semi-circular arrows from power to knowledge and from knowledge to power, forming a circle](images/power.png)
+![graphic of two words - knowledge and power - and semi-circular arrows from power to knowledge and from knowledge to power, forming a circle](../images/power.png)
 
 > "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used — or might be used — **to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" (Annette Markham, ["OKCupid data release fiasco: It’s time to rethink ethics education,"](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/) 2016, emphasis added)  
 
@@ -34,7 +34,7 @@ Decisions on the categories and boundaries scholars use shape our:
 * Algorithms
 * Maps
 
-![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikepedia and the politics of gender categorization" - A bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](wiki.png)  
+![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikepedia and the politics of gender categorization" - A bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](../images/wiki.png)  
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
 Categories are key to digital tools in many ways - the organizational systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms - which then shapes not only how things/people/etc are grouped together but what is searchable and findable, and the trajectory of canon formation and what is cited and foregrounded.  
@@ -61,4 +61,4 @@ Pair up with another person near you and discuss. Share as a class.
 
 ******
 
-[<<< Back](personhood.md) - [Next >>>](impact3.md)
+[<<< Back](impact1cont.md) - [Next >>>](impact3.md)

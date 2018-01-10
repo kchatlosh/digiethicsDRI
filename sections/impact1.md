@@ -20,6 +20,9 @@ A working definition of the “distance principle”:
 
 > **“the extent to which Internet texts or data sets might connect to persons”** even when “the conceptual or experiential distance between the researcher and author/participant [does not appear to be] close” ([Annette Markam & Elizabeth Buchanon, “Ethical Concerns in Internet Research”](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research), page 10)  
 
+![Image of one person typing on a computer followed by a divisionary line marked 'internet' and then a second person typing on a computer, image drawn by Derek Sivers](../images/DerekSivers.jpg)  
+Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
+
 ******
 
-[<<< Back](levelsimpact.md) - [Next >>>](public.md)
+[<<< Back](levelsimpact.md) - [Next >>>](impact1cont.md)
