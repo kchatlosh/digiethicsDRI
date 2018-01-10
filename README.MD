@@ -26,6 +26,7 @@ The approach of this workshop is premised on the understanding that there is no 
 
 * **consider** ethical practices to satisfy institutional needs (IRB) and working with “human subjects,”
 * **explore** ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools,
+* **review** alternative approaches and case examples,
 * **envision and discuss** the ethics of workshop participants' own projects and methodologies  
 
 ![creative commons logo followed by cc symbols for attribution and non-commercial](images/cc2.png)  
