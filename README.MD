@@ -25,12 +25,8 @@ The approach of this workshop is premised on the understanding that there is no 
 ### In this workshop, we (workshop participants) will:  
 
 * **consider** ethical practices to satisfy institutional needs (IRB) and working with “human subjects,”
-* **create** a working set of guidelines for ethical research,
-* **explore** ethical questions when doing various forms of digital research and using digital tools,
-* **discuss** the ethics of example projects and methodologies,
-* **envision and elaborate** on our own ideas and concerns!  
-
-*Note: The workshop leader will create and share a google doc that participants may add to throughout the workshop towards creating a working set of guidelines and additional resources. Each participant may add to the doc and write their name or alias down as a contributor, or choose to opt out.* 
+* **explore** ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools,
+* **envision and discuss** the ethics of workshop participants' own projects and methodologies  
 
 ![creative commons logo followed by cc symbols for attribution and non-commercial](images/cc2.png)  
 

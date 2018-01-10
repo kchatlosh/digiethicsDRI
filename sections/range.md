@@ -26,14 +26,6 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.  
 
-# Pause. 
-
-Update our shared guidelines:
-
-* What does the range of impact refer to?  
-* Why is it important to consider the range of impact?  
-* Additional examples of sources that discuss this? Or projects that tackle these issues?  
-
 ******
 
 [<<< Back](impact3.md) - [Next >>>](debrief.md)

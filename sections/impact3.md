@@ -29,14 +29,7 @@ Think about the digital project or research you are or will be working on.
 * How could your work cause changes to or justify social, economic or political discourses?  
 * Will your work be used for profit, for who?  
 
-Pair up with another person near you and discuss. Share as a class.  
-
-# Pause. 
-
-Update our shared guidelines:
-
-* What is the third level of impact? 
-* Additional examples of this?    
+Pair up with another person near you and discuss. Share as a class.    
 
 ******
 

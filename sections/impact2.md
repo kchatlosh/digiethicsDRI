@@ -59,14 +59,6 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.   
 
-# Pause. 
-
-Update our shared guidelines:
-
-* What is the second level of impact?  
-* What may be some effects of producing or further entrenching certain categories through e.g. datasets, algorithms or maps?  
-* What does it mean to "resist the hierarchy" of dominant categorizations? What are some other project examples that attempt to resist hierarchies?  
-
 ******
 
 [<<< Back](personhood.md) - [Next >>>](impact3.md)

@@ -31,16 +31,6 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.  
 
-# Pause. 
-
-Update our shared guidelines:
-
-* What are "levels of impact"?  
-* What is the "distance principle"?
-* What ethical concerns did we address regarding: 
-	public vs. private data, and 
-	data(text) vs. persons?
-
 ******
 
 [<<< Back](public.md) - [Next >>>](impact2.md)

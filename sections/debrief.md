@@ -22,7 +22,7 @@ Discuss with a partner, and then share with the group!
 * **developed** our understanding of ethical practices when doing digital research
 * **explored** ethical questions when doing various forms of digital research and using digital tools
 * **discussed** alternative approaches and case examples
-* **created** a working set of guidelines for ethical digital research 
+* **envisioned** how this approach to ethics relates to workshop participants' own projects and methodologies 
 
 **THANK YOU! & HOPE IT WAS USEFUL!**
 

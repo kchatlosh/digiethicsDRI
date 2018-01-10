@@ -33,12 +33,6 @@ For additional information on the CUNY HRPP policies & procedures, click [here](
 
 For HRPP Educational Materials, click [here](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)/HRPP-Educational-Materials)  
 
-# Pause. 
-
-Jot down some notes to our guidelines:  
-* What are the main principals of the Belmont Report?  
-* What do you find important to remember about applying for the CUNY HRPP or IRB?  
-
 ******
 
 [<<< Back](belmont.md) - [Next >>>](beyond.md)
