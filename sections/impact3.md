@@ -10,7 +10,7 @@ Some questions to consider:
 * Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?  
 * Could it influence **social or political discourse**? Modes of **profit**?  
 
-## Activity: Think, Pair, Share  
+## Activity 4: Think, Pair, Share  
 
 Think about the digital project or research you are or will be working on. 
 

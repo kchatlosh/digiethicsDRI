@@ -55,7 +55,7 @@ The [Interference Archive](http://interferencearchive.org/) - a local archive in
 
 The [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
 
-## Activity: Think, Pair, Share
+## Activity 3: Think, Pair, Share
 
 Think about the digital project or research you are or will be working on.
 

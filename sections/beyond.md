@@ -5,7 +5,7 @@ The approach of this workshop is premised on the understanding that there is no 
 
 To do so - I would argue - requires thinking beyond just the institutional requirements posed by the IRB.  
 
-## Activity: Think, Pair, Share  
+## Activity 1: Think, Pair, Share  
 
 Think about the digital project or research you are or will be working on. 
 

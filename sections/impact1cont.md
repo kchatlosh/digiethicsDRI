@@ -26,7 +26,7 @@ Source: [the 2012 Ethical Decision-Making and Internet Research report by the th
 
 Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 
-## Activity: Think, Pair, Share  
+## Activity 2: Think, Pair, Share  
 
 Think about the digital project or research you are or will be working on. 
 
