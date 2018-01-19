@@ -20,13 +20,15 @@ A person's understandings of and commitments to ethics or morality are greatly l
 
 So, if ethics are situated, ethical concerns vary between people, disciplines, projects and tools.  
 
-Introduce yourself to the person next to you:  
+Introduce yourself to the person next to you and vice versa:  
 
 * Name
 * Program
 * Current or upcoming digital research or projects? 
 * Digital tools that you use?
-* How did you come to be working on that project? to use those tools? 
+* How did you come to be working on that project? to use those tools?  
+
+Now introduce that person to us!  
 
 ******
 

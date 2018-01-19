@@ -8,7 +8,9 @@
 
 [US Federal Policy for the Protection of Human Subjects, note new changes - effective January 19, 2018](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)  
 
-[International Compilation of Human Research Standards (by country), compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services, 2017](https://www.hhs.gov/ohrp/sites/default/files/international-compilation-of-human-research-standards-2017.pdf)  
+[Regulations and Policy in the US, compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/regulations-and-policy)  
+
+[International Compilation of Human Research Standards (by country), compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/international/compilation-human-research-standards/index.html)  
 
 [The CUNY Human Research Protection Program (HRPP)](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)) 
 * For guidelines on when CUNY HRPP or IRB Review is required, click [here](http://www2.cuny.edu/wp-content/uploads/sites/4/page-assets/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/HRPP_IRB_Review_Required.pdf)

@@ -7,7 +7,7 @@
 Some questions to consider:
 
 * Whose **labor** and what **materials** are used to make the digital tools you use?  
-* Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?  
+* Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?    
 * Could it influence **social or political discourse**? Modes of **profit**?  
 
 ## Activity 4: Think, Pair, Share  
