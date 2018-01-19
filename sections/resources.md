@@ -2,7 +2,7 @@
 
 *Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there!*
 
-## General IRB information:
+## US government regulations and general IRB information:
 
 [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
 

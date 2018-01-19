@@ -46,14 +46,12 @@ Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanit
 Some questions to consider:  
 
 * Can categorical hierarchies be resisted through digital projects?  
-* FOr example, might public syllabi projects be understood as "resisting the hierarchy," or specifically resisting the canonization of Western white settler colonial approaches?  
+* For example, might public syllabi projects be understood as "resisting the hierarchy," or specifically resisting the canonization of Western white settler colonial approaches?  
 
 Projects to check out: 
 
-The [Interference Archive](http://interferencearchive.org/) - a local archive in Brooklyn that aims to "resist the hierarchy," as discussed in [this brief article](http://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/%20).  
-*Fun fact: I helped paint that #NoDAPL banner - with others at [Decolonize this Place](http://www.decolonizethisplace.org/) - shown in the article's first photo.*  
-
-The [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
+* The [Interference Archive](http://interferencearchive.org/) - a local archive in Brooklyn that aims to "resist the hierarchy," as discussed in [this brief article](http://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/%20). *Fun fact: I helped paint that #NoDAPL banner - with others at [Decolonize this Place](http://www.decolonizethisplace.org/) - shown in the article's first photo.*  
+* The [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
 
 ## Activity 3: Think, Pair, Share
 

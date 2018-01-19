@@ -4,7 +4,7 @@ The policies and principals stipulated in the Belmont Report largely inform thos
 
 The [CUNY Human Research Protection Program (HRPP)](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)) 
 
-> “The program provides oversight, administrative support and educational training to ensure that CUNY research complies with federal and State regulations, University policy and the highest ethical standards... The CUNY HRPP comprises of 5 University Integrated Institutional Review Boards (IRBs) and 19 on-site HRPP offices.”
+> The program provides oversight, administrative support and educational training to ensure that CUNY research complies with federal and State regulations, University policy and the highest ethical standards... The CUNY HRPP comprises of 5 University Integrated Institutional Review Boards (IRBs) and 19 on-site HRPP offices. (CUNY HRPP)
 
 ## When is CUNY HRPP or IRB review required?  
 
