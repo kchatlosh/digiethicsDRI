@@ -18,17 +18,17 @@
 
 ## Key works (among many more!) on the politics of knowledge production and forms of knowledge:
 
-[Stuart Hall et al., Policing the Crisis: Mugging, the State, and Law and Order, 1978](https://colectivociajpp.files.wordpress.com/2012/08/stuart-hall-etc-policing-the-crisis-mugging-the-state-and-law-and-order-critical-social-studies-1978.pdf)
+[Stuart Hall et al., *Policing the Crisis: Mugging, the State, and Law and Order*, 1978](https://colectivociajpp.files.wordpress.com/2012/08/stuart-hall-etc-policing-the-crisis-mugging-the-state-and-law-and-order-critical-social-studies-1978.pdf)
 
 Antonio Gramsci, various writings available [here](https://www.marxists.org/archive/gramsci/)
 
 [Michel Foucault, "Panopticism," 1977](http://dm.ncl.ac.uk/courseblog/files/2011/03/michel-foucault-panopticism.pdf)
 
-[Michel Foucault, The Archaeology of Knowledge and the Discourse on Language, 1969](https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf)
+[Michel Foucault, *The Archaeology of Knowledge and the Discourse on Language*, 1969](https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf)
 
 [Dwight Conquergood, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)
 
-[Diana Taylor, The Archive and the Repertoire, 2003](https://www.dukeupress.edu/the-archive-and-the-repertoire)
+[Diana Taylor, *The Archive and the Repertoire*, 2003](https://www.dukeupress.edu/the-archive-and-the-repertoire)
 
 [Donna Haraway, "Situated Knowledges," 1988](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf)  
 
@@ -116,7 +116,7 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Zeynep Tufekci, "After the Protests," 2014](https://www.nytimes.com/2014/03/20/opinion/after-the-protests.html?rref=collection%2Fcolumn%2Fzeynep-tufekci&action=click&contentCollection=opinion&region=stream&module=stream_unit&version=latest&contentPlacement=14&pgtype=collection)
 
-[Sasha Costanza-Chock, Out of the Shadows, Into the Streets! Transmedia Organizing and the Immigrant Rights Movement, 2014](https://mitpress.mit.edu/books/out-shadows-streets)
+[Sasha Costanza-Chock, *Out of the Shadows, Into the Streets! Transmedia Organizing and the Immigrant Rights Movement*, 2014](https://mitpress.mit.edu/books/out-shadows-streets)
 
 [Aimee Cox, "The Choreography of Survival," 2015](https://culanth.org/fieldsights/690-the-choreography-of-survival) 
 
