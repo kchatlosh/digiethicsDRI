@@ -46,7 +46,8 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Berendt, Büchler, & Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences” (2015)](http://digitalhumanitiesnow.org/2015/04/editors-choice-is-it-research-or-is-it-spying-thinking-through-ethics-in-big-data-ai-and-other-knowledge-sciences/)
 
-[Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
+[Michael Zimmer & Katharina Kinder-Kurlanda, editors, *Internet Research Ethics for the Social Age: New Challenges, Cases, and Contexts*, 2017](https://www.scribd.com/document/360717441/Internet-Research-Ethics-for-the-Social-Age-New-Challenges-Cases-and-Contexts-Full)  
+* Including a chapter by Patrick Sweeney, GC Digital Fellow and PhD candidate in Social/Personality Psychology, ["Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 
 [Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online* 2016](https://www.amazon.com/dp/1433130009/ref=cm_sw_r_sms_awd_d_JdrqxbYHPQSAT)  
 
