@@ -34,15 +34,17 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 ## General information on digital ethics beyond compliance:
 
-[Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education” (2016)](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)
+[Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education” (2016)](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
 
-## On internet & digital or social media research ethics:
+[Casey Fiesler, table of "Tech Ethics Curricula" - including links to syllabi](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)  
+
+## On internet, social media and "big data" research ethics:
 
 [The 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf)
 
 [Annette Markam & Elizabeth Buchanon, “Ethical Concerns in Internet Research”](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research)
 
-[Susan Barnes, “A Privacy Paradox” (2006)](http://firstmonday.org/article/view/1394/1312)  
+[Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312)  
 
 [Berendt, Büchler, & Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences” (2015)](http://digitalhumanitiesnow.org/2015/04/editors-choice-is-it-research-or-is-it-spying-thinking-through-ethics-in-big-data-ai-and-other-knowledge-sciences/)
 
@@ -53,7 +55,9 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [A list by @hypervisible on Twitter of tech platforms enacting dubious ethical practices](https://twitter.com/hypervisible/status/946822278582603777)  
 
-## On ethics and algorithms:
+[Matthew Zook, Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, Rachelle Hollander, Barbara A. Koenig, Jacob Metcalf, Arvind Narayanan, Alondra Nelson, Frank Pasquale, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
+
+## On ethics, algorithms and databases:
 
 [Critical Algorithm Studies: a Reading List, compiled by Tarleton Gillespie and Nick Seaver, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
 
@@ -67,6 +71,8 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [The Brian Lehrer Show podcast on "Getting Algorithms Right," 2018](https://www.wnyc.org/story/algorithms-better-or-worse/)  
 
+[The Policing in Chicago Research Group, "Tracked and Targeted: Early Findings on Chicago's Gang Database," 2018](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)  
+
 ## On public sharing and accessibility for differently abled people:
 
 [Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)
@@ -75,7 +81,9 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)
 
-[George Williams, "Disability, Universal Design, and the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/44)
+[George Williams, "Disability, Universal Design, and the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/44)  
+
+[Tyler Zoanni, "Creating an Accessible Online Presentation," 2017](https://culanth.org/fieldsights/1335-creating-an-accessible-online-presentation)  
 
 ## On data security and management:  
 
@@ -93,7 +101,13 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 
 [Tara McPherson, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/29)
 
-[Elizabeth Losh, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/32)
+[Elizabeth Losh, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University" in *Debates in the Digital Humanities*, ed. Matt Gold 2012](http://dhdebates.gc.cuny.edu/debates/text/32)  
+
+## On divisions of labor on digital projects and "digital carework" (Risam 2018):  
+
+[Roopika Risam, "Diversity work and digital carework in higher education," 2018](http://firstmonday.org/ojs/index.php/fm/article/view/8241/6651)  
+
+[Rafia Mirza, Brett Currier and Peace Ossom Williamson, "Memorandum of Understanding Collection" - MOUs to apply for large scale collaborative projects](https://uta-ir.tdl.org/uta-ir/handle/10106/25646)  
 
 ## On post- / de- / anti- colonial digital humanities (DH):
 
@@ -116,6 +130,8 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 ## On digital activism, its possibilities and its limitations:
 
 [Zeynep Tufekci, "After the Protests," 2014](https://www.nytimes.com/2014/03/20/opinion/after-the-protests.html?rref=collection%2Fcolumn%2Fzeynep-tufekci&action=click&contentCollection=opinion&region=stream&module=stream_unit&version=latest&contentPlacement=14&pgtype=collection)
+
+[Zeynep Tufekci, *Twitter and Teargas: The Power and Fragility of Networked Protest*, 2017](https://www.twitterandteargas.org/)  
 
 [Sasha Costanza-Chock, *Out of the Shadows, Into the Streets! Transmedia Organizing and the Immigrant Rights Movement*, 2014](https://mitpress.mit.edu/books/out-shadows-streets)
 
